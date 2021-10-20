@@ -3,9 +3,9 @@ import Navigation from '../components/Navigation';
 
 const Home = () => {
     return (
-        <div>
+        <div className="home"> 
             <Navigation />
-            <h1>bonjour</h1>
+            <h1>Accueil</h1>
         </div>
     );
 };
